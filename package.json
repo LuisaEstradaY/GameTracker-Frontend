@@ -22,7 +22,7 @@
     "react-router-dom": "^7.9.5",
     "recharts": "^3.2.1"
   },
-  "homepage": "https://Nicolas-MG.github.io/GameTracker",
+  "homepage": "https://LuisaEstradaY.github.io/GameTracker-Frontend",
   "devDependencies": {
     "@eslint/js": "^9.36.0",
     "@types/react": "^19.1.13",
